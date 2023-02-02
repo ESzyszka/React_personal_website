@@ -45,3 +45,16 @@ Unless you assign a specific value to a variable it will be `undefined`
 
 `.pop()` - removes the last element of the array
 `.shift()` - removes the first ellement of the array 
+
+
+## Functions 
+
+`
+function aFunction(){
+  console.log("Hi World")
+}
+
+aFunction()
+`
+
+to call a function you just need `aFunction()`
