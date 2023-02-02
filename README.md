@@ -39,5 +39,9 @@ Unless you assign a specific value to a variable it will be `undefined`
 `const`
 
 
+## Shortcuts
 
 `i = i + i` can be written as `i++`
+
+`.pop()` - removes the last element of the array
+`.shift()` - removes the first ellement of the array 
