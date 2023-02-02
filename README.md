@@ -8,3 +8,36 @@
 
 1. In the terminal cd ~/react_portfolio/react_portfolio
 2. npm start
+
+
+
+## Java Script cheet sheet 
+
+Data types:
+ - undefined 
+ - null
+ - boolean 
+ - string 
+ - symbol 
+ - bigint 
+ - number 
+ - object
+ 
+## initializing in JS
+
+```
+var a;
+var a = 9;
+```
+
+Unless you assign a specific value to a variable it will be `undefined`
+
+## `var` and `let`
+
+`let` : cannot override
+`var` : can override
+`const`
+
+
+
+`i = i + i` can be written as `i++`
