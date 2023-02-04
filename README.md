@@ -58,3 +58,9 @@ aFunction()
 `
 
 to call a function you just need `aFunction()`
+
+## if statements 
+  if (wasThatTrue) {
+    return "Yes, that was true";
+  }
+  return "No, that was false";
