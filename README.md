@@ -73,3 +73,5 @@ to call a function you just need `aFunction()`
 
 ``` const h1 = <h1>Hello world</h1>;```
 The part that looks like HTML is JSX
+
+### JSX attributes
