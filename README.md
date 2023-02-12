@@ -64,3 +64,12 @@ to call a function you just need `aFunction()`
     return "Yes, that was true";
   }
   return "No, that was false";
+
+
+
+
+
+## React cheet sheet
+
+``` const h1 = <h1>Hello world</h1>;```
+The part that looks like HTML is JSX
